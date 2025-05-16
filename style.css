@@ -108,3 +108,24 @@ footer {
     padding: 1rem;
     text-align: center;
 }
+
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2rem;
+        /* Reduce el tamaño del título */
+        text-align: center;
+    }
+
+    .hero p {
+        font-size: 1rem;
+        /* Reduce el tamaño del texto */
+        text-align: center;
+        margin: 0 20px;
+    }
+
+    .hero .btn {
+        font-size: 0.9rem;
+        /* Botón más pequeño */
+        padding: 10px 20px;
+    }
+}
