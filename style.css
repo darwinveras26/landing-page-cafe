@@ -31,7 +31,7 @@ body {
    🧩 Hero Section
 ========================== */
 .hero {
-    background: url('/images/cafe-hero.jpg') center/cover no-repeat;
+    background: url('images/cafe-hero.jpg') center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
