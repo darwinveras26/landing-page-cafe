@@ -42,6 +42,7 @@ body {
 .hero-text {
     background: rgba(0, 0, 0, 0.5);
     padding: 2rem;
+    margin: 2rem;
     border-radius: 10px;
     color: var(--btn-text-color);
 }
